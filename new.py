@@ -1,1 +1,4 @@
 print("NEW PROGRAM")
+for i in range(0,20,2):
+  print(i*2)
+  
